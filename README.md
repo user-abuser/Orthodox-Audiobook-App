@@ -1,2 +1,2 @@
 # Orthodox-Audiobook-App
-Audiobook streaming app for patristic, spiritual, and Orthodox texts. iOS made on XCode with Swift
+Audiobook streaming app on iOS for patristic, spiritual, and Orthodox texts. Made on XCode with Swift
